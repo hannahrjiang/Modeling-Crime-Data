@@ -6,3 +6,12 @@ Law enforcement services depend on technology to save lives. Analyzing crime dat
 - Machine Learning- How can we predict crimes rates in the future? How could we improve those predictions?
 
 The Dataset we will be using is from Seattle GeoData’s Open Data Program and can be found <a href= "https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5" > here</a>. For this activity, the user is required to have jupyter notebook installed, since we’ll also be using packages such as pandas, matplotlib, seaborn, numpy, networkx, and scikit learn.
+
+# Getting Started
+To get started, the user must have Jupyter Notebook installed oon their computer. If you don't already have it installed, I reccomend using the <a href= "https://docs.anaconda.com/anaconda/install/"> Anaconda Program</a>.
+
+To download the datasets and nootebook required for this project, click on the bright green "Code" button near the top of the page. When a dropdown menu pops up, click "Download ZIP." When you open Jupyter Notebook, go to the right side of your screen and hit "Upload," then navigate to the ZIP file you downloaded.
+
+The crime data we are using is too big to put into Github, so you will have to download it yourself. Go to this <a href= "https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5" > link</a>. It should lead you to a Seattle GeoData page titles "Seattle Crime Data 2008 - Present." Go to the right and hit "Export," then "CSV." This should download the file to your computer. Go to Jupyter Notebook, hit upload, and navigate to that file. 
+
+When you're ready, click the "Data Analysis" Notebook to begin this project!
