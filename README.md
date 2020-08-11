@@ -3,12 +3,12 @@ Law enforcement services depend on technology to save lives. Analyzing crime dat
 
 - Data Analysis - What types of crime have been most prevalent? Where has the most crime occurred in the last 12 years? How has this changed over time? 
 - Building a network - What causes crime? How do these causes relate and how can we visualize them?
-- Machine Learning- How can we predict crimes rates in the future? How could we improve those predictions?
+- Machine Learning- How can we predict crimes rates in the future? How could we improve those predictions? NOTE: THIS ISN'T READY YET
 
 The Dataset we will be using is from Seattle GeoData’s Open Data Program and can be found <a href= "https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5" > here</a>. For this activity, the user is required to have jupyter notebook installed, since we’ll also be using packages such as pandas, matplotlib, seaborn, numpy, networkx, and scikit learn.
 
 # Getting Started
-To get started, the user must have Jupyter Notebook installed on their computer. If you don't already have it installed, I recommend using the <a href= "https://docs.anaconda.com/anaconda/install/"> Anaconda Program</a>.
+To get started, the user must have Jupyter Notebook installed on their computer. If you don't already have it installed, I recommend using the <a href= "https://docs.anaconda.com/anaconda/install/"> Anaconda Platform</a>.
 
 To download the datasets and notebook required for this project, click on the bright green "Code" button near the top of the page. When a dropdown menu pops up, click "Download ZIP." When you open Jupyter Notebook, go to the right side of your screen and hit "Upload," then navigate to the ZIP file you downloaded.
 
