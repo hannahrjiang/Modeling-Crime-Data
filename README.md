@@ -16,6 +16,6 @@ The crime data we are using is too big to download from Github, so you will have
 
 Your Notebook should look like this:
 
-![GitHub Logo](images/Screen Shot 2020-08-11 at 3.59.38 PM.png)
+![screenshot](https://github.com/hannahrjiang/Modeling-Crime-Data/images/Screen Shot 2020-08-11 at 3.59.55 PM.png)
 
 When you're ready, click the "Activity 1: Data Analysis" Notebook to begin this project!
