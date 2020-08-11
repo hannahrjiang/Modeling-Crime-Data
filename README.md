@@ -15,6 +15,7 @@ To download the datasets and notebook required for this project, click on the br
 The crime data we are using is too big to download from Github, so you will have to do it separately. Go to this <a href= "https://drive.google.com/file/d/1Ur28H0HOakYd3yemfq740txPr2kbWVAO/view?usp=sharing" > link</a>. It should lead you to a google drive file. Click "download" (you might get a popup that say "can't scan file for viruses," just hit "download anyways"). This should download the file to your computer. Go to Jupyter Notebook, click the "datasets" folder, hit "Upload," and navigate to that file. 
 
 Your Notebook should look like this:
-![GitHub Logo](/images/Screen Shot 2020-08-11 at 3.59.38 PM.png)
+
+![GitHub Logo](images/Screen Shot 2020-08-11 at 3.59.38 PM.png)
 
 When you're ready, click the "Activity 1: Data Analysis" Notebook to begin this project!
