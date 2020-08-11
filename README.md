@@ -12,6 +12,6 @@ To get started, the user must have Jupyter Notebook installed on their computer.
 
 To download the datasets and notebook required for this project, click on the bright green "Code" button near the top of the page. When a dropdown menu pops up, click "Download ZIP." When you open Jupyter Notebook, go to the right side of your screen and hit "Upload," then navigate to the ZIP file you downloaded.
 
-The crime data we are using is too big to download from Github, so you will have to do it separately. Go to this <a href= "https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5" > link</a>. It should lead you to a Seattle GeoData page titles "Seattle Crime Data 2008 - Present." Go to the right and hit "Export," then "CSV." This should download the file to your computer. Go to Jupyter Notebook, hit "Upload," and navigate to that file. 
+The crime data we are using is too big to download from Github, so you will have to do it separately. Go to this <a href= "https://drive.google.com/file/d/1Ur28H0HOakYd3yemfq740txPr2kbWVAO/view?usp=sharing" > link</a>. It should lead you to a google drive file. Click "download" (you might get a popup that say "can't scan file for viruses," just hit "download anyways"). This should download the file to your computer. Go to Jupyter Notebook, hit "Upload," and navigate to that file. 
 
 When you're ready, click the "Data Analysis" Notebook to begin this project!
