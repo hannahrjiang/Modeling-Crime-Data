@@ -6,4 +6,3 @@ Law enforcement services depend on technology to save lives. Analyzing crime dat
 - Machine Learning- How can we predict crimes rates in the future? How could we improve those predictions?
 
 The Dataset we will be using is from Seattle GeoData’s Open Data Program and can be found <a href= "https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5" > here</a>. For this activity, the user is required to have jupyter notebook installed, since we’ll also be using packages such as pandas, matplotlib, seaborn, numpy, networkx, and scikit learn.
-To get started, you’ll also need the datasets in the "datasets" folder. Please download them to your computer.
