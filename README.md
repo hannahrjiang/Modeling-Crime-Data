@@ -1,5 +1,5 @@
 # Modeling Crime Data
-Contributors: Hannah Jiang, instructed by Claudia Lutwig, Rachel Calder, Ellie Rider
+Contributors: Hannah Jiang, instructed by Claudia Ludwig, Rachel Calder, Ellie Rider
 
 
 Law enforcement services depend on technology to save lives. Analyzing crime data can reveal patterns among dates and locations, which emergency dispatchers rely on to assign emergency units and minimize response times. Using historical Seattle crime data, this project will use statistical and computational skills to determine when and where crimes occur the most in Seattle, in addition to why this could be happening and how we can predict crime rates in the future. There are three components to this activity, in addition to some of the topics we’ll cover in each:
