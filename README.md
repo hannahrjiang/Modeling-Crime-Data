@@ -1,4 +1,7 @@
 # Modeling Crime Data
+Contributors: Hannah Jiang, instructed by Claudia Lutwig, Rachel Calder, Ellie Rider
+
+
 Law enforcement services depend on technology to save lives. Analyzing crime data can reveal patterns among dates and locations, which emergency dispatchers rely on to assign emergency units and minimize response times. Using historical Seattle crime data, this project will use statistical and computational skills to determine when and where crimes occur the most in Seattle, in addition to why this could be happening and how we can predict crime rates in the future. There are three components to this activity, in addition to some of the topics we’ll cover in each:
 
 - Data Analysis - What types of crime have been most prevalent? Where has the most crime occurred in the last 12 years? How has this changed over time? 
@@ -17,3 +20,4 @@ The crime data we are using is too big to download from Github, so you will have
 Your Notebook should look like <a href= "https://drive.google.com/file/d/1jGYEpQS_EKkryO6zxYBBgS-5ak_liagf/view?usp=sharing" > this</a> when you're finished.
 
 When you're ready, click the "Activity 1: Data Analysis" Notebook to begin this project!
+
