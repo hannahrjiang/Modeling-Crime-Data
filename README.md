@@ -6,7 +6,7 @@ Law enforcement services depend on technology to save lives. Analyzing crime dat
 
 - Data Analysis - What types of crime have been most prevalent? Where has the most crime occurred in the last 12 years? How has this changed over time? 
 - Building a network - What causes crime? How do these causes relate and how can we visualize them?
-- Machine Learning- How can we predict crimes rates in the future? How could we improve those predictions?
+- Machine Learning (optional) - How can we predict crimes rates in the future? How could we improve those predictions?
 
 The Dataset we will be using is from Seattle GeoData’s Open Data Program and can be found <a href= "https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5" > here</a>. For this activity, the user should have Jupyter Notebook installed, since we’ll be using Python and popular packages such as pandas, matplotlib, seaborn, numpy, networkx, and scikit learn.
 
