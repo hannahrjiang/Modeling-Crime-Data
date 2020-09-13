@@ -15,9 +15,7 @@ To get started, the user must have Jupyter Notebook installed on their computer.
 
 To download the datasets and notebook required for this project, click on the bright green "Code" button near the top of the page. When a dropdown menu pops up, click "Download ZIP." Extract the ZIP file in finder. Open Jupyter Notebook and go to the right side of your screen and hit "Upload," then navigate to the files in the folder. You can't directly upload a folder to Jupyter Notebook, so you'll have to select individual files and upload them.
 
-The crime data we are using is too big to download from Github, so you will have to do it separately. Go to this <a href= "https://drive.google.com/file/d/1Ur28H0HOakYd3yemfq740txPr2kbWVAO/view?usp=sharing" > link</a>. It should lead you to a google drive file. Click "download" (you might get a popup that say "can't scan file for viruses," just hit "download anyways"). This should download the file to your computer. Go to Jupyter Notebook, click the "datasets" folder, hit "Upload," and navigate to that file. 
-
-Your Notebook should look like <a href= "https://drive.google.com/file/d/1jGYEpQS_EKkryO6zxYBBgS-5ak_liagf/view?usp=sharing" > this</a> when you're finished. Note that the datasets and notebooks are in the same file at the top of the screen (PUT FILE NAMEE HEERE).
+Your Notebook should look like <a href= "https://drive.google.com/file/d/1s4kuH7EArE73pq7RpjvxAAal3q20RoSV/view?usp=sharing" > this</a> when you're finished. Note that the datasets and notebooks are in the same file, "Modeling Crime Data," at the top of the screen.
 
 When you're ready, click the "Activity 1: Data Analysis" Notebook to begin this project!
 
