@@ -1,0 +1,257 @@
+,var1,var2
+2,Crime Rate,Average Household Size
+11,Crime Rate,Percent of Population under 18 years
+17,Crime Rate,PCT_POP_INC_UNDER_200_POVERTY
+39,Median Age (years),Population per Gross Acres
+40,Median Age (years),Housing Units per Gross Acres
+41,Median Age (years),Households per Gross Acres
+46,Median Age (years),PCT_ADULT_WITH_DISABILITIES
+50,Average Household Size,Crime Rate
+57,Average Household Size,Percent Speak English less than very well
+61,Average Household Size,Percent of Population under 18 years
+64,Average Household Size,Population per Gross Acres
+65,Average Household Size,Housing Units per Gross Acres
+66,Average Household Size,Households per Gross Acres
+79,Percent Occupied Housing Units,Percent Value Housing Units
+103,Percent Value Housing Units,Percent Occupied Housing Units
+111,Percent Value Housing Units,Percent of Population under 18 years
+131,Percent High school graduate or higher,Percent Bachelor degree or higher
+132,Percent High school graduate or higher,Percent Speak English less than very well
+133,Percent High school graduate or higher,Median household income(dollars)
+134,Percent High school graduate or higher,Percentage of all people whose income in the past 12 months is below poverty
+135,Percent High school graduate or higher,Percent of Population that speaks language other than English
+137,Percent High school graduate or higher,Median gross rent (dollars)
+138,Percent High school graduate or higher,Percent civilian labor force that is unemployed
+142,Percent High school graduate or higher,PCT_POP_INC_UNDER_200_POVERTY
+143,Percent High school graduate or higher,PCT_LESS_BACHELOR_DEGREE
+144,Percent High school graduate or higher,PCT_ADULTNOLEISUREPHYSACTIVITY
+145,Percent High school graduate or higher,PCT_ADULTMENTALHEALTHNOTGOOD
+146,Percent High school graduate or higher,PCT_ADULT_WITH_DISABILITIES
+148,Percent High school graduate or higher,SOCIOECONOMIC_QUINTILE
+149,Percent High school graduate or higher,HEALTH_QUINTILE
+155,Percent Bachelor degree or higher,Percent High school graduate or higher
+157,Percent Bachelor degree or higher,Percent Speak English less than very well
+158,Percent Bachelor degree or higher,Median household income(dollars)
+159,Percent Bachelor degree or higher,Percentage of all people whose income in the past 12 months is below poverty
+160,Percent Bachelor degree or higher,Percent of Population that speaks language other than English
+162,Percent Bachelor degree or higher,Median gross rent (dollars)
+163,Percent Bachelor degree or higher,Percent civilian labor force that is unemployed
+167,Percent Bachelor degree or higher,PCT_POP_INC_UNDER_200_POVERTY
+168,Percent Bachelor degree or higher,PCT_LESS_BACHELOR_DEGREE
+169,Percent Bachelor degree or higher,PCT_ADULTNOLEISUREPHYSACTIVITY
+170,Percent Bachelor degree or higher,PCT_ADULTMENTALHEALTHNOTGOOD
+171,Percent Bachelor degree or higher,PCT_ADULT_WITH_DISABILITIES
+172,Percent Bachelor degree or higher,PCT_LOW_LIFE_EXPECT_AT_BIRTH
+173,Percent Bachelor degree or higher,SOCIOECONOMIC_QUINTILE
+174,Percent Bachelor degree or higher,HEALTH_QUINTILE
+177,Percent Speak English less than very well,Average Household Size
+180,Percent Speak English less than very well,Percent High school graduate or higher
+181,Percent Speak English less than very well,Percent Bachelor degree or higher
+183,Percent Speak English less than very well,Median household income(dollars)
+184,Percent Speak English less than very well,Percentage of all people whose income in the past 12 months is below poverty
+185,Percent Speak English less than very well,Percent of Population that speaks language other than English
+187,Percent Speak English less than very well,Median gross rent (dollars)
+188,Percent Speak English less than very well,Percent civilian labor force that is unemployed
+192,Percent Speak English less than very well,PCT_POP_INC_UNDER_200_POVERTY
+193,Percent Speak English less than very well,PCT_LESS_BACHELOR_DEGREE
+194,Percent Speak English less than very well,PCT_ADULTNOLEISUREPHYSACTIVITY
+195,Percent Speak English less than very well,PCT_ADULTMENTALHEALTHNOTGOOD
+198,Percent Speak English less than very well,SOCIOECONOMIC_QUINTILE
+199,Percent Speak English less than very well,HEALTH_QUINTILE
+205,Median household income(dollars),Percent High school graduate or higher
+206,Median household income(dollars),Percent Bachelor degree or higher
+207,Median household income(dollars),Percent Speak English less than very well
+209,Median household income(dollars),Percentage of all people whose income in the past 12 months is below poverty
+210,Median household income(dollars),Percent of Population that speaks language other than English
+212,Median household income(dollars),Median gross rent (dollars)
+213,Median household income(dollars),Percent civilian labor force that is unemployed
+217,Median household income(dollars),PCT_POP_INC_UNDER_200_POVERTY
+218,Median household income(dollars),PCT_LESS_BACHELOR_DEGREE
+219,Median household income(dollars),PCT_ADULTNOLEISUREPHYSACTIVITY
+220,Median household income(dollars),PCT_ADULTMENTALHEALTHNOTGOOD
+221,Median household income(dollars),PCT_ADULT_WITH_DISABILITIES
+223,Median household income(dollars),SOCIOECONOMIC_QUINTILE
+224,Median household income(dollars),HEALTH_QUINTILE
+230,Percentage of all people whose income in the past 12 months is below poverty,Percent High school graduate or higher
+231,Percentage of all people whose income in the past 12 months is below poverty,Percent Bachelor degree or higher
+232,Percentage of all people whose income in the past 12 months is below poverty,Percent Speak English less than very well
+233,Percentage of all people whose income in the past 12 months is below poverty,Median household income(dollars)
+235,Percentage of all people whose income in the past 12 months is below poverty,Percent of Population that speaks language other than English
+237,Percentage of all people whose income in the past 12 months is below poverty,Median gross rent (dollars)
+238,Percentage of all people whose income in the past 12 months is below poverty,Percent civilian labor force that is unemployed
+242,Percentage of all people whose income in the past 12 months is below poverty,PCT_POP_INC_UNDER_200_POVERTY
+243,Percentage of all people whose income in the past 12 months is below poverty,PCT_LESS_BACHELOR_DEGREE
+244,Percentage of all people whose income in the past 12 months is below poverty,PCT_ADULTNOLEISUREPHYSACTIVITY
+245,Percentage of all people whose income in the past 12 months is below poverty,PCT_ADULTMENTALHEALTHNOTGOOD
+248,Percentage of all people whose income in the past 12 months is below poverty,SOCIOECONOMIC_QUINTILE
+249,Percentage of all people whose income in the past 12 months is below poverty,HEALTH_QUINTILE
+255,Percent of Population that speaks language other than English,Percent High school graduate or higher
+256,Percent of Population that speaks language other than English,Percent Bachelor degree or higher
+257,Percent of Population that speaks language other than English,Percent Speak English less than very well
+258,Percent of Population that speaks language other than English,Median household income(dollars)
+259,Percent of Population that speaks language other than English,Percentage of all people whose income in the past 12 months is below poverty
+262,Percent of Population that speaks language other than English,Median gross rent (dollars)
+263,Percent of Population that speaks language other than English,Percent civilian labor force that is unemployed
+267,Percent of Population that speaks language other than English,PCT_POP_INC_UNDER_200_POVERTY
+268,Percent of Population that speaks language other than English,PCT_LESS_BACHELOR_DEGREE
+269,Percent of Population that speaks language other than English,PCT_ADULTNOLEISUREPHYSACTIVITY
+270,Percent of Population that speaks language other than English,PCT_ADULTMENTALHEALTHNOTGOOD
+273,Percent of Population that speaks language other than English,SOCIOECONOMIC_QUINTILE
+274,Percent of Population that speaks language other than English,HEALTH_QUINTILE
+275,Percent of Population under 18 years,Crime Rate
+277,Percent of Population under 18 years,Average Household Size
+279,Percent of Population under 18 years,Percent Value Housing Units
+289,Percent of Population under 18 years,Population per Gross Acres
+290,Percent of Population under 18 years,Housing Units per Gross Acres
+291,Percent of Population under 18 years,Households per Gross Acres
+305,Median gross rent (dollars),Percent High school graduate or higher
+306,Median gross rent (dollars),Percent Bachelor degree or higher
+307,Median gross rent (dollars),Percent Speak English less than very well
+308,Median gross rent (dollars),Median household income(dollars)
+309,Median gross rent (dollars),Percentage of all people whose income in the past 12 months is below poverty
+310,Median gross rent (dollars),Percent of Population that speaks language other than English
+313,Median gross rent (dollars),Percent civilian labor force that is unemployed
+317,Median gross rent (dollars),PCT_POP_INC_UNDER_200_POVERTY
+318,Median gross rent (dollars),PCT_LESS_BACHELOR_DEGREE
+319,Median gross rent (dollars),PCT_ADULTNOLEISUREPHYSACTIVITY
+320,Median gross rent (dollars),PCT_ADULTMENTALHEALTHNOTGOOD
+321,Median gross rent (dollars),PCT_ADULT_WITH_DISABILITIES
+323,Median gross rent (dollars),SOCIOECONOMIC_QUINTILE
+324,Median gross rent (dollars),HEALTH_QUINTILE
+330,Percent civilian labor force that is unemployed,Percent High school graduate or higher
+331,Percent civilian labor force that is unemployed,Percent Bachelor degree or higher
+332,Percent civilian labor force that is unemployed,Percent Speak English less than very well
+333,Percent civilian labor force that is unemployed,Median household income(dollars)
+334,Percent civilian labor force that is unemployed,Percentage of all people whose income in the past 12 months is below poverty
+335,Percent civilian labor force that is unemployed,Percent of Population that speaks language other than English
+337,Percent civilian labor force that is unemployed,Median gross rent (dollars)
+342,Percent civilian labor force that is unemployed,PCT_POP_INC_UNDER_200_POVERTY
+343,Percent civilian labor force that is unemployed,PCT_LESS_BACHELOR_DEGREE
+344,Percent civilian labor force that is unemployed,PCT_ADULTNOLEISUREPHYSACTIVITY
+345,Percent civilian labor force that is unemployed,PCT_ADULTMENTALHEALTHNOTGOOD
+348,Percent civilian labor force that is unemployed,SOCIOECONOMIC_QUINTILE
+349,Percent civilian labor force that is unemployed,HEALTH_QUINTILE
+351,Population per Gross Acres,Median Age (years)
+352,Population per Gross Acres,Average Household Size
+361,Population per Gross Acres,Percent of Population under 18 years
+365,Population per Gross Acres,Housing Units per Gross Acres
+366,Population per Gross Acres,Households per Gross Acres
+376,Housing Units per Gross Acres,Median Age (years)
+377,Housing Units per Gross Acres,Average Household Size
+386,Housing Units per Gross Acres,Percent of Population under 18 years
+389,Housing Units per Gross Acres,Population per Gross Acres
+391,Housing Units per Gross Acres,Households per Gross Acres
+401,Households per Gross Acres,Median Age (years)
+402,Households per Gross Acres,Average Household Size
+411,Households per Gross Acres,Percent of Population under 18 years
+414,Households per Gross Acres,Population per Gross Acres
+415,Households per Gross Acres,Housing Units per Gross Acres
+425,PCT_POP_INC_UNDER_200_POVERTY,Crime Rate
+430,PCT_POP_INC_UNDER_200_POVERTY,Percent High school graduate or higher
+431,PCT_POP_INC_UNDER_200_POVERTY,Percent Bachelor degree or higher
+432,PCT_POP_INC_UNDER_200_POVERTY,Percent Speak English less than very well
+433,PCT_POP_INC_UNDER_200_POVERTY,Median household income(dollars)
+434,PCT_POP_INC_UNDER_200_POVERTY,Percentage of all people whose income in the past 12 months is below poverty
+435,PCT_POP_INC_UNDER_200_POVERTY,Percent of Population that speaks language other than English
+437,PCT_POP_INC_UNDER_200_POVERTY,Median gross rent (dollars)
+438,PCT_POP_INC_UNDER_200_POVERTY,Percent civilian labor force that is unemployed
+443,PCT_POP_INC_UNDER_200_POVERTY,PCT_LESS_BACHELOR_DEGREE
+444,PCT_POP_INC_UNDER_200_POVERTY,PCT_ADULTNOLEISUREPHYSACTIVITY
+445,PCT_POP_INC_UNDER_200_POVERTY,PCT_ADULTMENTALHEALTHNOTGOOD
+446,PCT_POP_INC_UNDER_200_POVERTY,PCT_ADULT_WITH_DISABILITIES
+448,PCT_POP_INC_UNDER_200_POVERTY,SOCIOECONOMIC_QUINTILE
+449,PCT_POP_INC_UNDER_200_POVERTY,HEALTH_QUINTILE
+455,PCT_LESS_BACHELOR_DEGREE,Percent High school graduate or higher
+456,PCT_LESS_BACHELOR_DEGREE,Percent Bachelor degree or higher
+457,PCT_LESS_BACHELOR_DEGREE,Percent Speak English less than very well
+458,PCT_LESS_BACHELOR_DEGREE,Median household income(dollars)
+459,PCT_LESS_BACHELOR_DEGREE,Percentage of all people whose income in the past 12 months is below poverty
+460,PCT_LESS_BACHELOR_DEGREE,Percent of Population that speaks language other than English
+462,PCT_LESS_BACHELOR_DEGREE,Median gross rent (dollars)
+463,PCT_LESS_BACHELOR_DEGREE,Percent civilian labor force that is unemployed
+467,PCT_LESS_BACHELOR_DEGREE,PCT_POP_INC_UNDER_200_POVERTY
+469,PCT_LESS_BACHELOR_DEGREE,PCT_ADULTNOLEISUREPHYSACTIVITY
+470,PCT_LESS_BACHELOR_DEGREE,PCT_ADULTMENTALHEALTHNOTGOOD
+471,PCT_LESS_BACHELOR_DEGREE,PCT_ADULT_WITH_DISABILITIES
+472,PCT_LESS_BACHELOR_DEGREE,PCT_LOW_LIFE_EXPECT_AT_BIRTH
+473,PCT_LESS_BACHELOR_DEGREE,SOCIOECONOMIC_QUINTILE
+474,PCT_LESS_BACHELOR_DEGREE,HEALTH_QUINTILE
+480,PCT_ADULTNOLEISUREPHYSACTIVITY,Percent High school graduate or higher
+481,PCT_ADULTNOLEISUREPHYSACTIVITY,Percent Bachelor degree or higher
+482,PCT_ADULTNOLEISUREPHYSACTIVITY,Percent Speak English less than very well
+483,PCT_ADULTNOLEISUREPHYSACTIVITY,Median household income(dollars)
+484,PCT_ADULTNOLEISUREPHYSACTIVITY,Percentage of all people whose income in the past 12 months is below poverty
+485,PCT_ADULTNOLEISUREPHYSACTIVITY,Percent of Population that speaks language other than English
+487,PCT_ADULTNOLEISUREPHYSACTIVITY,Median gross rent (dollars)
+488,PCT_ADULTNOLEISUREPHYSACTIVITY,Percent civilian labor force that is unemployed
+492,PCT_ADULTNOLEISUREPHYSACTIVITY,PCT_POP_INC_UNDER_200_POVERTY
+493,PCT_ADULTNOLEISUREPHYSACTIVITY,PCT_LESS_BACHELOR_DEGREE
+495,PCT_ADULTNOLEISUREPHYSACTIVITY,PCT_ADULTMENTALHEALTHNOTGOOD
+496,PCT_ADULTNOLEISUREPHYSACTIVITY,PCT_ADULT_WITH_DISABILITIES
+497,PCT_ADULTNOLEISUREPHYSACTIVITY,PCT_LOW_LIFE_EXPECT_AT_BIRTH
+498,PCT_ADULTNOLEISUREPHYSACTIVITY,SOCIOECONOMIC_QUINTILE
+499,PCT_ADULTNOLEISUREPHYSACTIVITY,HEALTH_QUINTILE
+505,PCT_ADULTMENTALHEALTHNOTGOOD,Percent High school graduate or higher
+506,PCT_ADULTMENTALHEALTHNOTGOOD,Percent Bachelor degree or higher
+507,PCT_ADULTMENTALHEALTHNOTGOOD,Percent Speak English less than very well
+508,PCT_ADULTMENTALHEALTHNOTGOOD,Median household income(dollars)
+509,PCT_ADULTMENTALHEALTHNOTGOOD,Percentage of all people whose income in the past 12 months is below poverty
+510,PCT_ADULTMENTALHEALTHNOTGOOD,Percent of Population that speaks language other than English
+512,PCT_ADULTMENTALHEALTHNOTGOOD,Median gross rent (dollars)
+513,PCT_ADULTMENTALHEALTHNOTGOOD,Percent civilian labor force that is unemployed
+517,PCT_ADULTMENTALHEALTHNOTGOOD,PCT_POP_INC_UNDER_200_POVERTY
+518,PCT_ADULTMENTALHEALTHNOTGOOD,PCT_LESS_BACHELOR_DEGREE
+519,PCT_ADULTMENTALHEALTHNOTGOOD,PCT_ADULTNOLEISUREPHYSACTIVITY
+521,PCT_ADULTMENTALHEALTHNOTGOOD,PCT_ADULT_WITH_DISABILITIES
+522,PCT_ADULTMENTALHEALTHNOTGOOD,PCT_LOW_LIFE_EXPECT_AT_BIRTH
+523,PCT_ADULTMENTALHEALTHNOTGOOD,SOCIOECONOMIC_QUINTILE
+524,PCT_ADULTMENTALHEALTHNOTGOOD,HEALTH_QUINTILE
+526,PCT_ADULT_WITH_DISABILITIES,Median Age (years)
+530,PCT_ADULT_WITH_DISABILITIES,Percent High school graduate or higher
+531,PCT_ADULT_WITH_DISABILITIES,Percent Bachelor degree or higher
+533,PCT_ADULT_WITH_DISABILITIES,Median household income(dollars)
+537,PCT_ADULT_WITH_DISABILITIES,Median gross rent (dollars)
+542,PCT_ADULT_WITH_DISABILITIES,PCT_POP_INC_UNDER_200_POVERTY
+543,PCT_ADULT_WITH_DISABILITIES,PCT_LESS_BACHELOR_DEGREE
+544,PCT_ADULT_WITH_DISABILITIES,PCT_ADULTNOLEISUREPHYSACTIVITY
+545,PCT_ADULT_WITH_DISABILITIES,PCT_ADULTMENTALHEALTHNOTGOOD
+547,PCT_ADULT_WITH_DISABILITIES,PCT_LOW_LIFE_EXPECT_AT_BIRTH
+548,PCT_ADULT_WITH_DISABILITIES,SOCIOECONOMIC_QUINTILE
+549,PCT_ADULT_WITH_DISABILITIES,HEALTH_QUINTILE
+556,PCT_LOW_LIFE_EXPECT_AT_BIRTH,Percent Bachelor degree or higher
+568,PCT_LOW_LIFE_EXPECT_AT_BIRTH,PCT_LESS_BACHELOR_DEGREE
+569,PCT_LOW_LIFE_EXPECT_AT_BIRTH,PCT_ADULTNOLEISUREPHYSACTIVITY
+570,PCT_LOW_LIFE_EXPECT_AT_BIRTH,PCT_ADULTMENTALHEALTHNOTGOOD
+571,PCT_LOW_LIFE_EXPECT_AT_BIRTH,PCT_ADULT_WITH_DISABILITIES
+573,PCT_LOW_LIFE_EXPECT_AT_BIRTH,SOCIOECONOMIC_QUINTILE
+574,PCT_LOW_LIFE_EXPECT_AT_BIRTH,HEALTH_QUINTILE
+580,SOCIOECONOMIC_QUINTILE,Percent High school graduate or higher
+581,SOCIOECONOMIC_QUINTILE,Percent Bachelor degree or higher
+582,SOCIOECONOMIC_QUINTILE,Percent Speak English less than very well
+583,SOCIOECONOMIC_QUINTILE,Median household income(dollars)
+584,SOCIOECONOMIC_QUINTILE,Percentage of all people whose income in the past 12 months is below poverty
+585,SOCIOECONOMIC_QUINTILE,Percent of Population that speaks language other than English
+587,SOCIOECONOMIC_QUINTILE,Median gross rent (dollars)
+588,SOCIOECONOMIC_QUINTILE,Percent civilian labor force that is unemployed
+592,SOCIOECONOMIC_QUINTILE,PCT_POP_INC_UNDER_200_POVERTY
+593,SOCIOECONOMIC_QUINTILE,PCT_LESS_BACHELOR_DEGREE
+594,SOCIOECONOMIC_QUINTILE,PCT_ADULTNOLEISUREPHYSACTIVITY
+595,SOCIOECONOMIC_QUINTILE,PCT_ADULTMENTALHEALTHNOTGOOD
+596,SOCIOECONOMIC_QUINTILE,PCT_ADULT_WITH_DISABILITIES
+597,SOCIOECONOMIC_QUINTILE,PCT_LOW_LIFE_EXPECT_AT_BIRTH
+599,SOCIOECONOMIC_QUINTILE,HEALTH_QUINTILE
+605,HEALTH_QUINTILE,Percent High school graduate or higher
+606,HEALTH_QUINTILE,Percent Bachelor degree or higher
+607,HEALTH_QUINTILE,Percent Speak English less than very well
+608,HEALTH_QUINTILE,Median household income(dollars)
+609,HEALTH_QUINTILE,Percentage of all people whose income in the past 12 months is below poverty
+610,HEALTH_QUINTILE,Percent of Population that speaks language other than English
+612,HEALTH_QUINTILE,Median gross rent (dollars)
+613,HEALTH_QUINTILE,Percent civilian labor force that is unemployed
+617,HEALTH_QUINTILE,PCT_POP_INC_UNDER_200_POVERTY
+618,HEALTH_QUINTILE,PCT_LESS_BACHELOR_DEGREE
+619,HEALTH_QUINTILE,PCT_ADULTNOLEISUREPHYSACTIVITY
+620,HEALTH_QUINTILE,PCT_ADULTMENTALHEALTHNOTGOOD
+621,HEALTH_QUINTILE,PCT_ADULT_WITH_DISABILITIES
+622,HEALTH_QUINTILE,PCT_LOW_LIFE_EXPECT_AT_BIRTH
+623,HEALTH_QUINTILE,SOCIOECONOMIC_QUINTILE
