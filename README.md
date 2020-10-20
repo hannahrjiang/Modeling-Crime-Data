@@ -21,4 +21,5 @@ Your Notebook should look like <a href= "https://drive.google.com/file/d/1XQskUI
 
 When you're ready, click the "Activity 1: Data Analysis" Notebook to begin this project!
 
+# Works Cited
 A special thank you to <a href= "https://docs.google.com/document/d/1fQEx7NzjjZzcvhPIAzINpK-pZ6YyAmASASTytxFz_kw/edit?usp=sharing" > these</a> sources. This project would not have been possible without them!
